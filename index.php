@@ -22,16 +22,46 @@ Disfruta cada viaje que tu, tu familia y tu auto necesitan.</p>
                 </div>
                 <div class="col-md-6 acceso-movil">
                     <div class="imagen">
-                        <img src="assets/img/imagenes-que-es-wicar-acceso_movil.png" alt="Acceso Móvil Wicar">
+                        <img src="assets/img/imagenes-que-es-wicar-acceso_movil.webp" alt="Acceso Móvil Wicar">
                     </div>
                     <div class="div-content">
                         <div class="box">
                             <h3>App Móvil</h3>
-                            <div class="grilla-descarga-app">
-</div>
-                        </div>
+                            <div class="grilla-descarga-app w-100 d-flex flex-row justify-content-end align-items-start mb-2">
+                                    <div class="img-logo-app">
+                                        <img src="assets/img/logo-app-wicar.png" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="d-flex flex-column pl-2">
+                                        <a href="#" class="mb-1"><img src="assets/img/btn-appstore.png" class="img-fluid" alt=""></a>
+                                        <a href="#"><img src="assets/img/btn-googleplay.png" class="img-fluid" alt=""></a>
+                                    </div>
+                            </div><!---grilla-descarga-app-->
+                            <p class="text-right text-white">Una app que se preocupa de la seguridad y asistencia de tu vehículo</p>
+                        </div><!--box--->
+                    </div><!--div content-->
+                </div><!---acceso movil-->
+
+                <div class="col-md-6 acceso-web">
+                    <div class="imagen">
+                        <img src="assets/img/imagenes-que-es-wicar-acceso_web.png" alt="Acceso Web Wicar">
                     </div>
-                </div>
+                    <div class="div-content">
+                        <div class="box">
+                            <h3>App Móvil</h3>
+                            <div class="grilla-descarga-app w-100 d-flex flex-row justify-content-end align-items-start mb-2">
+                                    <div class="img-logo-app">
+                                        <img src="assets/img/logo-app-wicar.png" class="img-fluid" alt="">
+                                    </div>
+                                    <div class="d-flex flex-column pl-2">
+                                        <a href="#" class="mb-1"><img src="assets/img/btn-appstore.png" class="img-fluid" alt=""></a>
+                                        <a href="#"><img src="assets/img/btn-googleplay.png" class="img-fluid" alt=""></a>
+                                    </div>
+                            </div><!---grilla-descarga-app-->
+                            <p class="text-right text-white">Una app que se preocupa de la seguridad y asistencia de tu vehículo</p>
+                        </div><!--box--->
+                    </div><!--div content-->
+                </div><!---acceso web-->
+
             </div>
         </div>
     </section>

@@ -91,6 +91,12 @@ header{
 }
 .acceso-movil .imagen{
     position: absolute;
+    bottom: 0;
+    top: 0;
+    width: 326px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .div-content{
     display: flex;
@@ -101,10 +107,12 @@ header{
 }
 .div-content .box{
     background-color: #000;
-    height: 240px;
+    margin: 8px 0;
     width: 100%;
-    padding-left: 255px;
+    padding-left: 326px;
+    padding-right: 10px;
     padding-top: 18px;
+    height: 287px;
     display: flex;
     align-items: flex-start;
     flex-direction: column;
@@ -113,6 +121,7 @@ header{
     font-size: 22px;
     font-weight: 700;
     color: var(--color-naranjo-wicar);
+    margin-bottom: 27px;
 }
 @media (min-width:1200px){
     picture:after {
