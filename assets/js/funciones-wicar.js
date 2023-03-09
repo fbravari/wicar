@@ -47,11 +47,24 @@ jQuery(document).ready(function($)
                 nav:false
             },
             600:{
-                items:3
+                items:3,
+                nav:true
             },
             1000:{
-                items:3
+                items:3,
+                nav:true
             }
+        }
+    })
+
+    $(".tabla-marcas-row .marca-header a").click(function(e){
+        e.preventDefault();
+        if(screen.width < 1200){
+            $(this).toggleClass("open");
+            $(this).parent().parent().toggleClass("open");
+            $('html, body').animate({
+                scrollTop: $(this).parent().parent().offset().top
+              }, 1000);
         }
     })
 
