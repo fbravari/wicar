@@ -1,0 +1,6 @@
+<svg id="icon-calendar" xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+  <rect id="Rectangle_3" data-name="Rectangle 3" width="29" height="29" fill="none"/>
+  <g id="icon-calender-24" transform="translate(2 6.5)">
+    <path id="Shape" d="M25,16H0V1.811H2.775V4.02h4.75v-2.2h2.6v2.2h4.75v-2.2H17.5v2.2h4.762v-2.2H25V16ZM18.626,6.57v7.221h3.713V6.57Zm-5.338,0v7.221H17V6.57ZM8,6.57v7.221h3.675V6.57Zm-5.337,0v7.221H6.375V6.57ZM20.751,3.12H19.013V0h1.738V3.119Zm-7.388,0H11.638V0h1.725V3.119ZM6,3.12H4.287V0H6V3.119Z" transform="translate(0 0.5)" fill="#fff"/>
+  </g>
+</svg>
