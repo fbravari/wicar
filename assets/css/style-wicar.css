@@ -243,18 +243,32 @@ ol{
     margin-bottom: 2rem;
     color: #fff;
 }
+#cuando-lo-uso .owl-nav{
+    transform: translatey(-240px);
+    width: 100%;
+    z-index: 9;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 #cuando-lo-uso .owl-nav button.owl-prev span, #cuando-lo-uso .owl-nav button.owl-next span{
     background-image: url('../img/ionic-ios-arrow-dropleft.svg');
     display: block;
     width: 38px;
     height: 38px;
+    overflow: hidden;
+    text-indent: 100vw;
   }
   
 #cuando-lo-uso .owl-nav button.owl-prev span{
     transform: rotate(180deg);
+    margin-left: -45px;
 }
-#cuando-lo-uso .owl-nav button.owl-prev span{
-    background-image: url('../img/ionic-ios-arrow-dropleft.svg');
+#cuando-lo-uso .owl-nav button.owl-next span{
+    margin-right: -45px;
+}
+#cuando-lo-uso .owl-dots button.owl-dot.active span{
+    background-color: var(--color-naranjo-wicar);
 }
   .owl-item{
     display: flex;
