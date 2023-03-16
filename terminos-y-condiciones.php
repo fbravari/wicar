@@ -11,15 +11,7 @@
     <body>
 
     <?php include("template-parts/header.php"); ?>
-    <?php include("template-parts/slider.php"); ?>
-    <?php include("template-parts/quees.php"); ?>
-    <?php include("template-parts/telefono.php"); ?>
-    <?php include("template-parts/como-protejo-mi-auto.php"); ?>
-    <?php include("template-parts/servicios.php"); ?>
-    <?php include("template-parts/cuando-lo-uso.php"); ?>
-    <?php include("template-parts/marcas-compatibles.php"); ?>
-    <?php include("template-parts/que-pasa-empresa.php"); ?>
-    <?php include("template-parts/planes-y-renovaciones.php"); ?>
+    <?php include("template-parts/terminos.php"); ?>
     <footer class="bg-black py-4">
         <div class="container py-4">
             <div class="row">
@@ -71,6 +63,7 @@
         </div>
     </footer>
 
+    
     </body>
     <script
   src="https://code.jquery.com/jquery-3.6.4.js"
