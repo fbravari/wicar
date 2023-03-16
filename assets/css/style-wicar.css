@@ -328,10 +328,15 @@ justify-content: center;
     min-height: 108px;
 }
 
+
+/* Términos y condiciones */
 .terminos-condiciones {
     background-color: #fff;
 }
-.terminos-condiciones h3 {
+.terminos-condiciones h1 {
+    font-size: 1.5rem;
+}
+.terminos-condiciones h2 {
     font-size: 1rem;
     font-weight: 700;
     margin-bottom: 1.5rem;
@@ -345,6 +350,59 @@ justify-content: center;
 .terminos-condiciones ol, 
 .terminos-condiciones ul {
     padding-left: 1.5rem;
+}
+
+/* Preguntas frecuentes */
+.faq h1 {
+    font-size: 1.5rem;
+}
+.accordion-faq {
+    background-color: var(--color-dark-section);
+    color: #fff;
+}
+.accordion-faq .accordion-item {
+    padding: 1rem 0;
+}
+.accordion-faq .accordion-item:not(:last-child) {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+}
+.accordion-faq .accordion-button {
+    background-color: inherit;
+    border: none;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    font-size: 1.125rem;
+    font-weight: 700;
+    outline: none;
+    line-height: 1;
+    padding: 0;
+    text-align: left;
+    text-transform: uppercase;
+    width: 100%;
+}
+.accordion-faq .accordion-button::after {
+    content: "＋";
+    border-radius: 50%;
+    border-color:#fff;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: auto;
+    height: 1.75rem;
+    width: 1.75rem;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.accordion-faq .accordion-button:not(.collapsed) {
+    color: var(--color-naranjo-wicar);
+}
+.accordion-faq .accordion-button:not(.collapsed)::after {
+    content: "—";
+    border-color: var(--color-naranjo-wicar);
+}
+.accordion-faq .accordion-body {
+    margin-top: 1.5rem;
 }
 
 footer h4{
@@ -434,6 +492,10 @@ footer ul li a:hover{
         position: absolute;
         width: 78%;
         bottom: 0;
+    }
+    .terminos-condiciones h1,
+    .faq h1 {
+        font-size: 2.5rem;
     }
 }
 @media (max-width:1199.98px) {
