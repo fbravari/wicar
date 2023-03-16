@@ -16,7 +16,7 @@
                         <a class="nav-link" href="#cuando-lo-uso">¿Cuándo lo uso?</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="#">Planes y Renovaciones</a>
+                        <a class="nav-link" href="#planes-y-renovaciones">Planes y Renovaciones</a>
                         </li>
                     </ul>
                     <hr class="d-block d-xl-none border-white pb-2" />

@@ -1,5 +1,5 @@
-<section class="pasos-seccion">
-        <div class="container">
+<section class="pasos-seccion bg-black py-4">
+        <div class="container py-4">
             <div class="row">
                 <div class="col-12 titulo-servicios mb-4 pb-4">
                     <h2 class="text-center text-white titulo-wicar"><span>¿COMO PROTEJO MI AUTO?</span></h2>

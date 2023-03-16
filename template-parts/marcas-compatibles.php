@@ -1,6 +1,6 @@
-<section class="marcas-compatibles-seccion py-2 py-md-4">
-        <div class="container py-2 py-md-4">
-            <div class="row pt-0 pt-md-4">
+<section class="marcas-compatibles-seccion py-3 py-md-4">
+        <div class="container py-3 py-md-4">
+            <div class="row py-0 py-md-4">
                 <div class="col-12 titulo-servicios mb-4 pb-4">
                     <h2 class="text-center text-white titulo-wicar"><span>MARCAS COMPATIBLES</span></h2>
                     <p class="text-center text-white">Revisa las funcionalidades disponibles para cada una de las marcas homologadas</p>
