@@ -283,6 +283,21 @@ justify-content: center;
 .terminos-condiciones {
     background-color: #fff;
 }
+.terminos-condiciones h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+}
+.terminos-condiciones p, 
+.terminos-condiciones ol li, 
+.terminos-condiciones ul li {
+    margin-bottom: 1.5rem;
+}
+.terminos-condiciones ol, 
+.terminos-condiciones ul {
+    padding-left: 1.5rem;
+}
 
 @keyframes deslizar {
     0% {
