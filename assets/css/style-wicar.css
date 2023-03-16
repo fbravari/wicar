@@ -280,6 +280,9 @@ display: flex;
 justify-content: center;
 }
 
+.terminos-condiciones {
+    background-color: #fff;
+}
 
 @keyframes deslizar {
     0% {
