@@ -1,5 +1,5 @@
-<section class="servicios-principales pb-4">
-        <div class="container pb-4">
+<section class="servicios-principales py-4">
+        <div class="container py-4">
             <div class="row">
                 <div class="col-12 titulo-servicios mb-4 pb-4">
                     <h2 class="text-center text-white titulo-wicar"><span>SERVICIOS PRINCIPALES</span></h2>
