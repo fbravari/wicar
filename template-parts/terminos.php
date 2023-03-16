@@ -1,6 +1,6 @@
 <section class="terminos-condiciones py-4 py-md-5">
     <div class="container">
-        <h2 class="text-orange font-weight-bold mb-5">Términos y condiciones</h2>
+        <h1 class="text-orange font-weight-bold mb-5">Términos y condiciones</h1>
         <div class="row">
             <!-- Antecedentes -->
             <div class="col-12">
