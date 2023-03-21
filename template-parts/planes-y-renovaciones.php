@@ -71,7 +71,7 @@
                 <div class="col-md-6">
                     <div class="row pb-4  top-planes">
                         <div class="col-12 d-flex align-items-center justify-content-center">
-                            <img src="assets/img/logo-gris.svg" class="img-fluid" />
+                            <img src="assets/img/logotipo_wicar_empresas.svg" height="84" class="img-fluid" />
                         </div><!--col-12-->
                     </div><!--row-->
                     <div class="row">
